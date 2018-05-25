@@ -1,0 +1,33 @@
+site_name: search-demo-mkdocs-material
+site_url: https://pages.charlesreid1.com/search-demo-mkdocs-material
+repo_name: charlesreid1/search-demo-mkdocs-material
+repo_url: https://git.charlesreid1.com/charlesreid1/search-demo-mkdocs-material
+edit_uri: ""
+
+
+copyright: 'Copyright &copy; 2018 Charles Reid, released under the <a href="https://opensource.org/licenses/BSD-3-Clause">BSD 3-Clause License</a>'
+
+docs_dir: docs
+site_dir: site
+
+theme:
+
+  name: null
+  custom_dir: 'mkdocs-material/material'
+
+  # pretty colors! see https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+  palette:
+    primary: 'dark blue'
+    accent: 'dark blue'
+  
+  # fun logos! see https://material.io/icons/
+  logo:
+    icon: 'search'
+
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+# this will add docs/css/custom.css to all your docs
+extra_css:
+  - css/custom.css

@@ -19,3 +19,5 @@ We document a couple of awesome lists, which are large curated lists of links:
 
 To take this thing for a test drive, just start typing into the search box
 at the top of the page.
+
+Try searching for the term **healthcare**.

@@ -1,5 +1,7 @@
 # search-demo-mkdocs-material
 
+aoiweuroeiwurqopiewur
+
 Using mkdocs-material to make a pile of markdown documents containing links
 to useful resources into a searchable HTML page.
 

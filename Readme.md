@@ -1,7 +1,5 @@
 # search-demo-mkdocs-material
 
-asdf qwerty
-
 Using mkdocs-material to make a pile of markdown documents containing links
 to useful resources into a searchable HTML page.
 

@@ -10,10 +10,12 @@ copyright: 'Copyright &copy; 2018 Charles Reid, released under the <a href="http
 docs_dir: docs
 site_dir: site
 
+
 theme:
 
   name: null
   custom_dir: 'mkdocs-material/material'
+
 
   # pretty colors! see https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
   palette:
@@ -31,3 +33,4 @@ theme:
 # this will add docs/css/custom.css to all your docs
 extra_css:
   - css/custom.css
+
